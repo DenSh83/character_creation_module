@@ -8,6 +8,8 @@ flake8-return==1.2.0
 iniconfig==1.1.1
 isort==5.10.1
 mccabe==0.7.0
+mypy==0.991
+mypy-extensions==0.4.3
 packaging==21.3
 pep8-naming==0.13.2
 pluggy==1.0.0
@@ -15,3 +17,4 @@ pycodestyle==2.9.1
 pyflakes==2.5.0
 pyparsing==3.0.9
 pytest==7.2.0
+typing_extensions==4.4.0
